@@ -18,7 +18,7 @@ About Me 👋<br>Hi! I'm Megha Chakraborty, a BCA student. I enjoy participating
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Megha-Chakraborty&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Megha-Chakraborty/Megha-Chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
