@@ -1,4 +1,5 @@
-About Me 👋<br>Hi! I'm Megha Chakraborty, a BCA student. I enjoy participating in hackathons, exploring new ideas, and collaborating on different projects. Apart from academics, I actively engage in various learning opportunities and challenges.
+# About Me 👋
+Hi! I'm Megha Chakraborty, a BCA student. I enjoy participating in hackathons, exploring new ideas, and collaborating on different projects. Apart from academics, I actively engage in various learning opportunities and challenges.
 
 
 ## 🌐 Socials:
